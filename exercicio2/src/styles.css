@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+
+body {
+    margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(45, 226, 226, 0.733);
+    color: white;
+    }
+
+.input {
+    margin-left: 5px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+    
+}
+
+.label {
+    margin-left: 4px;
+}
